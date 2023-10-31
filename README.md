@@ -31,7 +31,4 @@ This is a simple command-line slot machine game implemented in JavaScript. Playe
 ## Sample Usage
 
 ```bash
-$ node slot-machine.js
-
-
-
+$ node project.js
